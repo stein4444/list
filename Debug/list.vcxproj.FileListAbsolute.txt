@@ -1,0 +1,2 @@
+E:\hm\list\Debug\list.exe
+E:\hm\list\Debug\list.pdb
